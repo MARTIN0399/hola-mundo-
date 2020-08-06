@@ -2,5 +2,5 @@
 ## Introducción a Git Hub
 **Primer repositorio** 
 
-Autor: -[x]  Martín Hernández
+-[x] Autor:   Martín Hernández
 Fecha: Lunes 4 de Agosto de 2020.
